@@ -16,6 +16,13 @@ namespace DesafioFundamentos.Models
         {
             // TODO: Pedir para o usuário digitar uma placa (ReadLine) e adicionar na lista "veiculos"
             // *IMPLEMENTE AQUI*
+            
+            // Roteiro:
+            // Como obter a entrada do usuario?  -> https://cursos.alura.com.br/forum/topico-receber-dados-via-teclado-c-63069
+            // Como adicionar um item numa lista? -> https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.add?view=net-7.0
+            
+            
+            
             Console.WriteLine("Digite a placa do veículo para estacionar:");
         }
 
